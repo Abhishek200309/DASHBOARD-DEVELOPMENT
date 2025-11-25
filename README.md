@@ -123,5 +123,6 @@ These insights are crucial for strategic HR planning, hiring, promotion cycles, 
 
 ## 📸 Dashboard Preview
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6a5ec95a-5663-43a7-a0bb-79392d97b57e" />
 
 
