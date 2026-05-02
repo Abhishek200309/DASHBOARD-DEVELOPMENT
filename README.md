@@ -1,17 +1,5 @@
 # DASHBOARD-DEVELOPMENT
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: ABHISHEK VICTOR RAJ MANESH
-
-*INTERN ID*: CT12DY2725
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 12 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 # 📊 HR Analytics Dashboard  
 A Power BI dashboard providing actionable insights into workforce demographics, promotion readiness, job-level distribution, and employee service patterns.
 
